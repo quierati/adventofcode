@@ -27,7 +27,11 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ### These are my personal leaderboard statistics.
 
 ```
-
+      --------Part 1---------   --------Part 2--------
+Day       Time    Rank  Score       Time   Rank  Score
+  3   01:11:31   15647      0   11:39:04  45574      0
+  2   00:27:23   11521      0   00:32:40  10778      0
+  1   21:17:43  102213      0   21:54:37  91779      0
 ```
 
 > Rank is your position on that leaderboard: 1 means you were the first person to get that star, 2 means the second, 100 means the 100th, etc.
