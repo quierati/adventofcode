@@ -10,9 +10,9 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - #### Day 2: Dive!
  - [x] [part-1](./2021/day2/one/solution.py)
  - [x] [part-2](./2021/day2/two/solution.py)
-- #### Day 3: 
- - [ ] [part-1](./2021/day3/one/solution.py)
- - [ ] [part-2](./2021/day3/two/solution.py)
+- #### Day 3: Binary Diagnostic
+ - [x] [part-1](./2021/day3/one/solution.py)
+ - [x] [part-2](./2021/day3/two/solution.py)
   
 
 ## My Results
@@ -20,8 +20,8 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
  - Company: [Labunix](https://labunix.tech)
  - Year:  [2021](https://adventofcode.com/2021)
  - Language: python3.9
- - Total stars: 4/50
- - Days playing: 2/25
+ - Total stars: 6/50
+ - Days playing: 3/25
 
 
 ### These are my personal leaderboard statistics.
@@ -29,11 +29,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ```
       --------Part 1---------   --------Part 2--------
 Day       Time    Rank  Score       Time   Rank  Score
-  2   00:27:23   11521      0   00:32:40  10778      0
-  1   21:17:43  102213      0   21:54:37  91779      0
-
-      --------Part 1---------   --------Part 2--------
-Day       Time    Rank  Score       Time   Rank  Score
+  3   01:11:31   15647      0   11:39:04  45574      0
   2   00:27:23   11521      0   00:32:40  10778      0
   1   21:17:43  102213      0   21:54:37  91779      0
 ```
