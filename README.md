@@ -19,9 +19,21 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - #### Day 5: Hydrothermal Venture
  - [x] [part-1](./2021/day5/one/solution.py)
  - [x] [part-2](./2021/day5/two/solution.py)
-- #### Day 6: ?
+- #### Day 6: Lanternfish 
  - [ ] [part-1](./2021/day6/one/solution.py)
  - [ ] [part-2](./2021/day6/two/solution.py)
+- #### Day 7: The Treachery of Whales
+ - [x] [part-1](./2021/day7/one/solution.py)
+ - [x] [part-2](./2021/day7/two/solution.py)
+- #### Day 8: Seven Segment Search
+ - [x] [part-1](./2021/day8/one/solution.py)
+ - [x] [part-2](./2021/day8/two/solution.py)
+- #### Day 9: ?
+ - [ ] [part-1](./2021/day9/one/solution.py)
+ - [ ] [part-2](./2021/day9/two/solution.py)
+- #### Day 9: ?
+ - [ ] [part-1](./2021/day9/one/solution.py)
+ - [ ] [part-2](./2021/day9/two/solution.py)
   
 
 ## My Results
@@ -29,8 +41,8 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
  - Company: [Labunix](https://labunix.tech)
  - Year:  [2021](https://adventofcode.com/2021)
  - Language: python3.9
- - Total stars: 10/50
- - Days playing: 5/25
+ - Total stars: 16/50
+ - Days playing: 8/25
 
 
 ### These are my personal leaderboard statistics.
@@ -38,6 +50,9 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ```
       --------Part 1---------   --------Part 2--------
 Day       Time    Rank  Score       Time   Rank  Score
+  8   06:32:15   31011      0   07:07:05  17670      0
+  7   15:30:53   52616      0   17:51:12  53304      0
+  6   00:49:02   10461      0   02:22:12  12047      0
   5   02:51:37   12801      0   02:53:20  10876      0
   4   02:33:16   11315      0   04:10:12  13564      0
   3   01:11:31   15647      0   11:39:04  45574      0
